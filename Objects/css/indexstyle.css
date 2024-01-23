@@ -1,0 +1,27 @@
+p{
+    text-wrap: unset;
+}
+ul{
+    display: table-cell;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: aqua;
+}
+li a{
+    padding: 20px;
+    display: table-cell;
+    text-decoration: none;
+    font-family: "Monotype Corsiva";
+}
+li a:hover{
+    background-color: blueviolet;
+}
+li a{
+    float: left;
+}
+h1{
+    font-family: "Monotype Corsiva";
+    font-size: 30px;
+}
